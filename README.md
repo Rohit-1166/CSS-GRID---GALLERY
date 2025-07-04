@@ -14,7 +14,7 @@ A CSS Grid-based car collection gallery with clean layout and smooth CSS effects
 - Clean and modern look
 
 ## Live Demo
-**[CLICK ON ME](https://your-live-link.com)**
+**[CLICK ON ME](https://rohit-1166.github.io/CSS-GRID---GALLERY/)**
 
 ## How to Run
 1. Clone the repo
